@@ -2,6 +2,10 @@
 .venv/
 venv/
 
+# Sphinx build output
+build/
+docs/build/
+
 # Python cache
 __pycache__/
 *.pyc
